@@ -9,7 +9,7 @@ class Complex{
         cout<<a<<" + "<<b<<"i"<<endl;
     }
 };
-Complex :: Complex(void)
+Complex :: Complex(void) //---> This is Parameterized Constructor.
 {
     a=15;
     b=12;
